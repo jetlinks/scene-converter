@@ -1,0 +1,22 @@
+[
+  {
+    "template": "{\"subject\":\"场景联动数据迁移测试\",\"sendTo\":[\"125540670@qq.com\"],\"text\":\"<p><span style=\\\"color:#e8bf6a\\\">&lt;!DOCTYPE </span><span style=\\\"color:#bababa\\\">html</span><span style=\\\"color:#e8bf6a\\\">&gt;</span><br/><span style=\\\"color:#e8bf6a\\\">&lt;html </span><span style=\\\"color:#bababa\\\">lang</span><span style=\\\"color:#a5c261\\\">=&quot;en&quot;</span><span style=\\\"color:#e8bf6a\\\">&gt;</span><br/><span style=\\\"color:#e8bf6a\\\">&lt;head&gt;</span><br/><span style=\\\"color:#e8bf6a\\\">    &lt;meta </span><span style=\\\"color:#bababa\\\">charset</span><span style=\\\"color:#a5c261\\\">=&quot;UTF-8&quot;</span><span style=\\\"color:#e8bf6a\\\">&gt;</span><br/><span style=\\\"color:#e8bf6a\\\">    &lt;title&gt;</span>Title<span style=\\\"color:#e8bf6a\\\">&lt;/title&gt;</span><br/><span style=\\\"color:#e8bf6a\\\">&lt;/head&gt;</span><br/><span style=\\\"color:#e8bf6a\\\">&lt;body&gt;</span><br/><span style=\\\"color:#e8bf6a\\\">&lt;div </span><span style=\\\"color:#bababa\\\">class</span><span style=\\\"color:#a5c261\\\">=&quot;media-wrap image-wrap&quot;</span><span style=\\\"color:#e8bf6a\\\">&gt;&lt;img </span><span style=\\\"color:#bababa\\\">src</span><span style=\\\"color:#a5c261\\\">=&quot;data:image/png;base64,${base64}&quot;</span><span style=\\\"color:#e8bf6a\\\">/&gt;&lt;/div&gt;</span><br/><span style=\\\"color:#e8bf6a\\\">&lt;/body&gt;</span><br/><span style=\\\"color:#e8bf6a\\\">&lt;/html&gt;</span></p>\",\"attachments\":[]}",
+    "variable_definitions": null,
+    "create_time": 1683792873473,
+    "provider": "embedded",
+    "creator_id": "1199596756811550720",
+    "name": "邮件",
+    "id": "1656573494850019328",
+    "type": "email"
+  },
+  {
+    "template": "{\"agentId\":\"1000003\",\"toUser\":\"PanNiDeXuePaDe\",\"toParty\":\"15\",\"message\":\"测试微信通知\"}",
+    "variable_definitions": null,
+    "create_time": 1684119109146,
+    "provider": "corpMessage",
+    "creator_id": "1199596756811550720",
+    "name": "微信",
+    "id": "1657941826438225920",
+    "type": "weixin"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "retry_policy": null,
+    "configuration": "{\"host\":\"smtp.163.com\",\"port\":\"465\",\"sender\":\"jianai_0@163.com\",\"username\":\"jianai_0@163.com\",\"password\":\"VFDNCPWOAFBPSHEN\",\"properties\":[{\"id\":\"CE2tpDWj\",\"name\":\"\",\"value\":\"\",\"description\":\"\"}]}",
+    "create_time": 1683792834446,
+    "provider": "embedded",
+    "creator_id": "1199596756811550720",
+    "name": "邮件",
+    "description": null,
+    "id": "1656573331158917120",
+    "type": "email",
+    "max_retry_times": 0
+  },
+  {
+    "retry_policy": null,
+    "configuration": "{\"corpId\":\"wwd7e935e286789712\",\"corpSecret\":\"1QY3migmSREZFn1Gcl0OZYTKlMnQ6qclc_QqGQdPa9I\"}",
+    "create_time": 1684118973573,
+    "provider": "corpMessage",
+    "creator_id": "1199596756811550720",
+    "name": "微信",
+    "description": null,
+    "id": "1657941257799655424",
+    "type": "weixin",
+    "max_retry_times": 0
+  }
+]
