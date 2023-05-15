@@ -1,0 +1,17 @@
+[
+  {
+    "product_id": "alarm_1",
+    "alarm_time": "1683792873473",
+    "alarm_data": "{\"cpuUsage\":85,\"deviceId\":\"alarm_1\",\"deviceName\":\"告警测试\",\"productName\":\"告警配置测试\",\"messageType\":\"REPORT_PROPERTY\",\"temperature\":50,\"alarmId\":\"1655850026282049536\",\"humidity\":21,\"id\":\"83ae05341f022545d5d8c61a1176bc01\",\"timestamp\":1684123970172,\"a\":1,\"BatteryLevel\":100,\"productId\":\"alarm_1\",\"alarmName\":\"设备上报属性-1.0版本迁移\",\"trigger0\":{\"_MaxPendingReads\":25,\"a\":1,\"cpuUsage\":85,\"BatteryLevel\":100,\"temperature\":50,\"humidity\":21,\"time\":\"1680228005354\",\"properties\":44},\"_MaxPendingReads\":25,\"time\":\"1680228005354\",\"_uid\":\"1657962219890860032\",\"properties\":44}",
+    "description": null,
+    "alarm_name": "设备上报属性-1.0版本迁移",
+    "update_time": "1683792873473",
+    "device_id": "alarm_1",
+    "device_name": "告警测试",
+    "product_name": "告警配置测试",
+    "alarm_id": "1655850026282049536",
+    "alarm_level": null,
+    "id": "83ae05341f022545d5d8c61a1176bc01",
+    "state": "newer"
+  }
+]
